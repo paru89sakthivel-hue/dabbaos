@@ -6,8 +6,9 @@
 - Key is stored in my password manager (never in the repo)
 
 
-- Telegram bot "DabbaOS Alerts" created and tested on 30 Sep 2026 (token stored in password manager)
+- Telegram bot "DabbaOS Alerts" created and tested on 3 Oct 2026 (token stored in password manager)
 
 
 - Google Sheet "DabbaOS DB" created with Menu, Orders and Escalations tabs (headers copied from Appendix B) - on 6th October
 
+- DuckDNS subdomain: dabba-paru.duckdns.org (token stored in password manager)
