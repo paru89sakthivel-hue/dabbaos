@@ -7,3 +7,7 @@
 
 
 - Telegram bot "DabbaOS Alerts" created and tested on 30 Sep 2026 (token stored in password manager)
+
+
+- Google Sheet "DabbaOS DB" created with Menu, Orders and Escalations tabs (headers copied from Appendix B) - on 6th October
+
